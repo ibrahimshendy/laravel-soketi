@@ -1,0 +1,16 @@
+Dockerfile
+README.md
+.git
+.gitignore
+.gitattributes
+docker-compose.yml
+docker-compose.yml.example
+node_modules
+vendor
+public/js
+storage/logs/*
+storage/app/public/*
+storage/framework/cache/data/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/framework/testing/*s
